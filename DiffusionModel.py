@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 14 09:06:30 2020
 
-@author: mooreheadj
+@author: mooreheadj, NDLib
 """
 
 import abc
